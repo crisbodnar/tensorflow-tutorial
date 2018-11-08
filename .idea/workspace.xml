@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01588faf-ef86-4f2f-a84e-f53937c7d051" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_regression/linear_regression_advanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="linear_regression.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/linear_regression.py">
+      <file leaf-file-name="linear_regression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linear_regression/linear_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="490">
+              <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -25,7 +26,52 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="linear_regression_advanced.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linear_regression/linear_regression_advanced.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server_init.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map_reduce/server_init.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map_reduce.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map_reduce/map_reduce.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cluster_spec</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +80,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/linear_regression.py" />
+        <option value="$PROJECT_DIR$/map_reduce/server_init.py" />
+        <option value="$PROJECT_DIR$/map_reduce/map_reduce.py" />
+        <option value="$PROJECT_DIR$/linear_regression/linear_regression_advanced.py" />
       </list>
     </option>
   </component>
@@ -53,6 +102,16 @@
               <item name="lsdpo" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsdpo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lsdpo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lsdpo" type="462c0819:PsiDirectoryNode" />
+              <item name="linear_regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lsdpo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lsdpo" type="462c0819:PsiDirectoryNode" />
+              <item name="map_reduce" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -63,6 +122,14 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/linear_regression" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/linear_regression" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,13 +183,40 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linear_regression.py">
+    <entry file="file://$PROJECT_DIR$/map_reduce/server_init.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-end-line="9" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linear_regression/linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map_reduce/map_reduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linear_regression/linear_regression_advanced.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
